@@ -275,3 +275,31 @@
 2015-12-29 10:03:55 INFO  Steps:115 - Opened new tab
 2015-12-29 10:03:55 INFO  DashboardPage:31 - Opened dashboard page
 2015-12-29 10:04:02 INFO  Steps:33 - Stopped browser
+2015-12-29 10:23:52 INFO  Steps:27 - Initialized browser
+2015-12-29 10:23:59 INFO  MainPage:48 - Opened login page
+2015-12-29 10:24:10 INFO  MainPage:53 - Opened product page
+2015-12-29 10:24:17 INFO  MainPage:63 - Size choose
+2015-12-29 10:24:18 INFO  MainPage:68 - Added to cart
+2015-12-29 10:24:20 INFO  MainPage:73 - Go to cart
+2015-12-29 10:24:32 INFO  Steps:33 - Stopped browser
+2015-12-29 10:24:45 INFO  Steps:27 - Initialized browser
+2015-12-29 10:24:50 INFO  MainPage:55 - Opened login page
+2015-12-29 10:25:02 INFO  MainPage:65 - Logged in
+2015-12-29 10:25:05 INFO  Steps:89 - Opened new tab
+2015-12-29 10:25:05 INFO  Steps:89 - Opened new tab
+2015-12-29 10:25:05 INFO  Steps:89 - Opened new tab
+2015-12-29 10:25:08 INFO  MainPage:55 - Opened login page
+2015-12-29 10:25:12 INFO  MainPage:85 - Opened users nav panel
+2015-12-29 10:25:12 INFO  MainPage:90 - Logout
+2015-12-29 10:25:12 INFO  MainPage:55 - Opened login page
+2015-12-29 10:25:18 INFO  Steps:33 - Stopped browser
+2015-12-29 10:25:31 INFO  Steps:27 - Initialized browser
+2015-12-29 10:25:35 INFO  MainPage:55 - Opened login page
+2015-12-29 10:25:46 INFO  MainPage:77 - Used search
+2015-12-29 10:25:55 INFO  Steps:33 - Stopped browser
+2015-12-29 10:26:08 INFO  Steps:27 - Initialized browser
+2015-12-29 10:26:14 INFO  MainPage:55 - Opened login page
+2015-12-29 10:26:44 INFO  MainPage:65 - Logged in
+2015-12-29 10:26:45 INFO  Steps:89 - Opened new tab
+2015-12-29 10:26:48 INFO  DashboardPage:31 - Opened dashboard page
+2015-12-29 10:26:55 INFO  Steps:33 - Stopped browser
