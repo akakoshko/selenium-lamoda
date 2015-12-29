@@ -1,0 +1,277 @@
+2015-12-29 03:11:02 INFO  Steps:25 - Initialized browser
+2015-12-29 03:11:09 INFO  MainPage:52 - Opened login page
+2015-12-29 03:12:17 INFO  Steps:31 - Stopped browser
+2015-12-29 03:13:14 INFO  Steps:25 - Initialized browser
+2015-12-29 03:14:04 INFO  Steps:25 - Initialized browser
+2015-12-29 03:14:04 INFO  MainPage:52 - Opened login page
+2015-12-29 03:15:06 INFO  Steps:31 - Stopped browser
+2015-12-29 03:16:33 INFO  Steps:25 - Initialized browser
+2015-12-29 03:16:38 INFO  MainPage:52 - Opened login page
+2015-12-29 03:17:36 INFO  Steps:31 - Stopped browser
+2015-12-29 03:21:48 INFO  Steps:25 - Initialized browser
+2015-12-29 03:22:14 INFO  MainPage:55 - Opened login page
+2015-12-29 03:23:13 INFO  Steps:31 - Stopped browser
+2015-12-29 03:24:07 INFO  Steps:25 - Initialized browser
+2015-12-29 03:24:19 INFO  MainPage:55 - Opened login page
+2015-12-29 03:28:01 INFO  Steps:25 - Initialized browser
+2015-12-29 03:28:05 INFO  MainPage:55 - Opened login page
+2015-12-29 03:29:05 INFO  Steps:31 - Stopped browser
+2015-12-29 03:31:47 INFO  Steps:25 - Initialized browser
+2015-12-29 03:31:54 INFO  MainPage:55 - Opened login page
+2015-12-29 03:32:06 INFO  MainPage:67 - Logged in
+2015-12-29 03:32:07 INFO  DashboardPage:76 - Opened dashboard page
+2015-12-29 03:33:02 INFO  Steps:31 - Stopped browser
+2015-12-29 03:37:03 INFO  Steps:25 - Initialized browser
+2015-12-29 03:37:07 INFO  MainPage:55 - Opened login page
+2015-12-29 03:38:07 INFO  Steps:31 - Stopped browser
+2015-12-29 03:38:58 INFO  Steps:25 - Initialized browser
+2015-12-29 03:39:04 INFO  MainPage:55 - Opened login page
+2015-12-29 03:39:15 INFO  MainPage:65 - Logged in
+2015-12-29 03:39:15 INFO  DashboardPage:76 - Opened dashboard page
+2015-12-29 03:40:09 INFO  Steps:31 - Stopped browser
+2015-12-29 03:40:57 INFO  Steps:25 - Initialized browser
+2015-12-29 03:41:03 INFO  MainPage:55 - Opened login page
+2015-12-29 03:41:15 INFO  MainPage:65 - Logged in
+2015-12-29 03:41:18 INFO  Steps:31 - Stopped browser
+2015-12-29 03:50:35 INFO  Steps:25 - Initialized browser
+2015-12-29 03:50:40 INFO  MainPage:55 - Opened login page
+2015-12-29 03:50:52 INFO  MainPage:65 - Logged in
+2015-12-29 03:50:52 INFO  DashboardPage:32 - Opened dashboard page
+2015-12-29 03:51:04 INFO  Steps:31 - Stopped browser
+2015-12-29 03:54:09 INFO  Steps:25 - Initialized browser
+2015-12-29 03:54:14 INFO  MainPage:55 - Opened login page
+2015-12-29 03:54:25 INFO  MainPage:65 - Logged in
+2015-12-29 03:54:26 INFO  DashboardPage:32 - Opened dashboard page
+2015-12-29 03:54:34 INFO  Steps:31 - Stopped browser
+2015-12-29 03:57:05 INFO  Steps:25 - Initialized browser
+2015-12-29 03:57:10 INFO  MainPage:55 - Opened login page
+2015-12-29 03:57:21 INFO  MainPage:65 - Logged in
+2015-12-29 03:57:21 INFO  DashboardPage:32 - Opened dashboard page
+2015-12-29 03:57:25 INFO  Steps:44 - 
+2015-12-29 03:57:28 INFO  Steps:31 - Stopped browser
+2015-12-29 04:02:29 INFO  Steps:25 - Initialized browser
+2015-12-29 04:02:35 INFO  MainPage:55 - Opened login page
+2015-12-29 04:02:47 INFO  MainPage:65 - Logged in
+2015-12-29 04:02:48 INFO  DashboardPage:32 - Opened dashboard page
+2015-12-29 04:02:58 INFO  Steps:31 - Stopped browser
+2015-12-29 04:03:47 INFO  Steps:25 - Initialized browser
+2015-12-29 04:03:53 INFO  MainPage:55 - Opened login page
+2015-12-29 04:04:04 INFO  MainPage:65 - Logged in
+2015-12-29 04:04:05 INFO  DashboardPage:32 - Opened dashboard page
+2015-12-29 04:04:14 INFO  Steps:31 - Stopped browser
+2015-12-29 04:05:18 INFO  Steps:25 - Initialized browser
+2015-12-29 04:05:18 INFO  MainPage:55 - Opened login page
+2015-12-29 04:05:57 INFO  MainPage:65 - Logged in
+2015-12-29 04:05:57 INFO  DashboardPage:32 - Opened dashboard page
+2015-12-29 04:06:03 INFO  Steps:44 - 
+2015-12-29 04:06:07 INFO  Steps:31 - Stopped browser
+2015-12-29 04:09:55 INFO  Steps:27 - Initialized browser
+2015-12-29 04:10:02 INFO  MainPage:55 - Opened login page
+2015-12-29 04:10:13 INFO  MainPage:65 - Logged in
+2015-12-29 04:10:14 INFO  Steps:105 - Opened new tab
+2015-12-29 04:10:15 INFO  DashboardPage:32 - Opened dashboard page
+2015-12-29 04:10:23 INFO  Steps:47 - akaynt100@tut.by
+2015-12-29 04:10:26 INFO  Steps:33 - Stopped browser
+2015-12-29 04:11:56 INFO  Steps:27 - Initialized browser
+2015-12-29 04:12:01 INFO  MainPage:55 - Opened login page
+2015-12-29 04:12:13 INFO  MainPage:65 - Logged in
+2015-12-29 04:12:13 INFO  Steps:104 - Opened new tab
+2015-12-29 04:12:17 INFO  DashboardPage:32 - Opened dashboard page
+2015-12-29 04:12:24 INFO  Steps:33 - Stopped browser
+2015-12-29 04:13:02 INFO  Steps:27 - Initialized browser
+2015-12-29 04:13:29 INFO  MainPage:55 - Opened login page
+2015-12-29 04:13:40 INFO  MainPage:65 - Logged in
+2015-12-29 04:13:41 INFO  Steps:104 - Opened new tab
+2015-12-29 04:13:42 INFO  DashboardPage:32 - Opened dashboard page
+2015-12-29 04:13:52 INFO  Steps:33 - Stopped browser
+2015-12-29 04:30:09 INFO  Steps:27 - Initialized browser
+2015-12-29 04:30:13 INFO  MainPage:55 - Opened login page
+2015-12-29 04:30:24 INFO  MainPage:65 - Logged in
+2015-12-29 04:30:24 INFO  MainPage:42 - Opened login page
+2015-12-29 04:30:29 INFO  MainPage:47 - Opened product page
+2015-12-29 04:30:38 INFO  MainPage:57 - Size choose
+2015-12-29 04:30:38 INFO  MainPage:62 - Added to cart
+2015-12-29 04:30:42 INFO  Steps:33 - Stopped browser
+2015-12-29 04:32:31 INFO  Steps:27 - Initialized browser
+2015-12-29 04:32:42 INFO  MainPage:55 - Opened login page
+2015-12-29 04:32:54 INFO  MainPage:65 - Logged in
+2015-12-29 04:32:54 INFO  MainPage:42 - Opened login page
+2015-12-29 04:33:01 INFO  MainPage:47 - Opened product page
+2015-12-29 04:33:08 INFO  MainPage:57 - Size choose
+2015-12-29 04:33:09 INFO  MainPage:62 - Added to cart
+2015-12-29 04:33:12 INFO  Steps:33 - Stopped browser
+2015-12-29 04:33:58 INFO  Steps:27 - Initialized browser
+2015-12-29 04:34:03 INFO  MainPage:42 - Opened login page
+2015-12-29 04:36:23 INFO  Steps:27 - Initialized browser
+2015-12-29 04:37:50 INFO  Steps:27 - Initialized browser
+2015-12-29 04:37:56 INFO  MainPage:42 - Opened login page
+2015-12-29 04:38:07 INFO  MainPage:47 - Opened product page
+2015-12-29 04:38:14 INFO  MainPage:57 - Size choose
+2015-12-29 04:38:14 INFO  MainPage:62 - Added to cart
+2015-12-29 04:38:18 INFO  Steps:33 - Stopped browser
+2015-12-29 04:43:25 INFO  Steps:27 - Initialized browser
+2015-12-29 04:43:30 INFO  MainPage:45 - Opened login page
+2015-12-29 04:43:40 INFO  MainPage:50 - Opened product page
+2015-12-29 04:43:49 INFO  MainPage:60 - Size choose
+2015-12-29 04:43:49 INFO  MainPage:65 - Added to cart
+2015-12-29 04:44:40 INFO  Steps:33 - Stopped browser
+2015-12-29 04:46:29 INFO  Steps:27 - Initialized browser
+2015-12-29 04:46:35 INFO  MainPage:45 - Opened login page
+2015-12-29 04:46:47 INFO  MainPage:50 - Opened product page
+2015-12-29 04:47:00 INFO  MainPage:60 - Size choose
+2015-12-29 04:47:00 INFO  MainPage:65 - Added to cart
+2015-12-29 04:47:04 INFO  MainPage:70 - Go to cart
+2015-12-29 04:47:07 INFO  Steps:33 - Stopped browser
+2015-12-29 04:55:04 INFO  Steps:27 - Initialized browser
+2015-12-29 04:55:09 INFO  MainPage:48 - Opened login page
+2015-12-29 04:55:21 INFO  MainPage:53 - Opened product page
+2015-12-29 04:55:29 INFO  MainPage:63 - Size choose
+2015-12-29 04:55:30 INFO  MainPage:68 - Added to cart
+2015-12-29 04:55:32 INFO  MainPage:73 - Go to cart
+2015-12-29 04:55:43 INFO  Steps:33 - Stopped browser
+2015-12-29 05:09:48 INFO  Steps:27 - Initialized browser
+2015-12-29 05:09:54 INFO  MainPage:55 - Opened login page
+2015-12-29 05:10:06 INFO  MainPage:77 - Used search
+2015-12-29 05:10:09 INFO  Steps:33 - Stopped browser
+2015-12-29 05:20:38 INFO  Steps:27 - Initialized browser
+2015-12-29 05:20:42 INFO  MainPage:55 - Opened login page
+2015-12-29 05:21:02 INFO  Steps:33 - Stopped browser
+2015-12-29 05:23:09 INFO  Steps:27 - Initialized browser
+2015-12-29 05:23:09 INFO  MainPage:55 - Opened login page
+2015-12-29 05:23:24 INFO  MainPage:77 - Used search
+2015-12-29 05:23:34 INFO  Steps:33 - Stopped browser
+2015-12-29 05:29:20 INFO  Steps:27 - Initialized browser
+2015-12-29 05:29:26 INFO  MainPage:55 - Opened login page
+2015-12-29 05:29:37 INFO  MainPage:65 - Logged in
+2015-12-29 05:29:38 INFO  MainPage:55 - Opened login page
+2015-12-29 05:31:18 INFO  Steps:27 - Initialized browser
+2015-12-29 05:31:24 INFO  MainPage:55 - Opened login page
+2015-12-29 05:31:34 INFO  MainPage:65 - Logged in
+2015-12-29 05:31:35 INFO  Steps:113 - Opened new tab
+2015-12-29 05:31:37 INFO  MainPage:55 - Opened login page
+2015-12-29 05:32:54 INFO  Steps:27 - Initialized browser
+2015-12-29 05:32:59 INFO  MainPage:55 - Opened login page
+2015-12-29 05:33:10 INFO  MainPage:65 - Logged in
+2015-12-29 05:33:10 INFO  Steps:114 - Opened new tab
+2015-12-29 05:33:12 INFO  Steps:114 - Opened new tab
+2015-12-29 05:33:13 INFO  MainPage:55 - Opened login page
+2015-12-29 05:34:05 INFO  Steps:33 - Stopped browser
+2015-12-29 05:35:31 INFO  Steps:27 - Initialized browser
+2015-12-29 05:35:35 INFO  MainPage:55 - Opened login page
+2015-12-29 05:35:46 INFO  MainPage:65 - Logged in
+2015-12-29 05:35:47 INFO  Steps:114 - Opened new tab
+2015-12-29 05:35:47 INFO  Steps:114 - Opened new tab
+2015-12-29 05:35:49 INFO  MainPage:55 - Opened login page
+2015-12-29 05:36:22 INFO  Steps:27 - Initialized browser
+2015-12-29 05:36:29 INFO  MainPage:55 - Opened login page
+2015-12-29 05:36:39 INFO  MainPage:65 - Logged in
+2015-12-29 05:36:40 INFO  Steps:114 - Opened new tab
+2015-12-29 05:36:41 INFO  Steps:114 - Opened new tab
+2015-12-29 05:36:43 INFO  MainPage:55 - Opened login page
+2015-12-29 05:37:20 INFO  Steps:27 - Initialized browser
+2015-12-29 05:37:25 INFO  MainPage:55 - Opened login page
+2015-12-29 05:37:36 INFO  MainPage:65 - Logged in
+2015-12-29 05:37:37 INFO  Steps:114 - Opened new tab
+2015-12-29 05:37:37 INFO  Steps:114 - Opened new tab
+2015-12-29 05:37:39 INFO  MainPage:55 - Opened login page
+2015-12-29 05:38:36 INFO  Steps:27 - Initialized browser
+2015-12-29 05:38:40 INFO  MainPage:55 - Opened login page
+2015-12-29 05:38:52 INFO  MainPage:65 - Logged in
+2015-12-29 05:38:52 INFO  Steps:114 - Opened new tab
+2015-12-29 05:38:53 INFO  Steps:114 - Opened new tab
+2015-12-29 05:38:55 INFO  MainPage:55 - Opened login page
+2015-12-29 05:40:00 INFO  Steps:27 - Initialized browser
+2015-12-29 05:40:10 INFO  MainPage:55 - Opened login page
+2015-12-29 05:40:22 INFO  MainPage:65 - Logged in
+2015-12-29 05:40:23 INFO  Steps:115 - Opened new tab
+2015-12-29 05:40:25 INFO  Steps:115 - Opened new tab
+2015-12-29 05:40:25 INFO  Steps:115 - Opened new tab
+2015-12-29 05:40:27 INFO  MainPage:55 - Opened login page
+2015-12-29 05:40:47 INFO  MainPage:85 - Opened users nav panel
+2015-12-29 05:40:50 INFO  Steps:33 - Stopped browser
+2015-12-29 05:45:55 INFO  Steps:27 - Initialized browser
+2015-12-29 05:46:06 INFO  MainPage:55 - Opened login page
+2015-12-29 05:46:18 INFO  MainPage:65 - Logged in
+2015-12-29 05:46:18 INFO  Steps:115 - Opened new tab
+2015-12-29 05:46:20 INFO  Steps:115 - Opened new tab
+2015-12-29 05:46:20 INFO  Steps:115 - Opened new tab
+2015-12-29 05:46:22 INFO  MainPage:55 - Opened login page
+2015-12-29 05:46:26 INFO  MainPage:87 - Opened users nav panel
+2015-12-29 05:46:29 INFO  Steps:33 - Stopped browser
+2015-12-29 05:48:28 INFO  Steps:27 - Initialized browser
+2015-12-29 05:48:33 INFO  MainPage:55 - Opened login page
+2015-12-29 05:48:44 INFO  MainPage:65 - Logged in
+2015-12-29 05:48:44 INFO  Steps:115 - Opened new tab
+2015-12-29 05:48:45 INFO  Steps:115 - Opened new tab
+2015-12-29 05:48:46 INFO  Steps:115 - Opened new tab
+2015-12-29 05:48:48 INFO  MainPage:55 - Opened login page
+2015-12-29 05:48:52 INFO  MainPage:87 - Opened users nav panel
+2015-12-29 05:48:55 INFO  Steps:33 - Stopped browser
+2015-12-29 05:49:50 INFO  Steps:27 - Initialized browser
+2015-12-29 05:49:55 INFO  MainPage:55 - Opened login page
+2015-12-29 05:50:07 INFO  MainPage:65 - Logged in
+2015-12-29 05:50:08 INFO  Steps:115 - Opened new tab
+2015-12-29 05:50:09 INFO  Steps:115 - Opened new tab
+2015-12-29 05:50:09 INFO  Steps:115 - Opened new tab
+2015-12-29 05:50:11 INFO  MainPage:55 - Opened login page
+2015-12-29 05:50:15 INFO  MainPage:87 - Opened users nav panel
+2015-12-29 05:51:03 INFO  Steps:33 - Stopped browser
+2015-12-29 05:54:18 INFO  Steps:27 - Initialized browser
+2015-12-29 05:54:18 INFO  MainPage:55 - Opened login page
+2015-12-29 05:54:34 INFO  MainPage:65 - Logged in
+2015-12-29 05:54:35 INFO  Steps:115 - Opened new tab
+2015-12-29 05:54:36 INFO  Steps:115 - Opened new tab
+2015-12-29 05:54:37 INFO  Steps:115 - Opened new tab
+2015-12-29 05:54:39 INFO  MainPage:55 - Opened login page
+2015-12-29 05:54:42 INFO  MainPage:87 - Opened users nav panel
+2015-12-29 05:54:45 INFO  MainPage:92 - Logout
+2015-12-29 05:54:48 INFO  Steps:33 - Stopped browser
+2015-12-29 05:55:37 INFO  Steps:27 - Initialized browser
+2015-12-29 05:55:44 INFO  MainPage:55 - Opened login page
+2015-12-29 05:55:58 INFO  MainPage:65 - Logged in
+2015-12-29 05:55:58 INFO  Steps:115 - Opened new tab
+2015-12-29 05:55:59 INFO  Steps:115 - Opened new tab
+2015-12-29 05:56:00 INFO  Steps:115 - Opened new tab
+2015-12-29 05:56:02 INFO  MainPage:55 - Opened login page
+2015-12-29 05:56:06 INFO  MainPage:87 - Opened users nav panel
+2015-12-29 05:56:07 INFO  MainPage:92 - Logout
+2015-12-29 05:56:10 INFO  Steps:33 - Stopped browser
+2015-12-29 06:03:24 INFO  Steps:27 - Initialized browser
+2015-12-29 06:03:28 INFO  MainPage:55 - Opened login page
+2015-12-29 06:03:40 INFO  MainPage:65 - Logged in
+2015-12-29 06:03:40 INFO  Steps:115 - Opened new tab
+2015-12-29 06:03:42 INFO  Steps:115 - Opened new tab
+2015-12-29 06:03:42 INFO  Steps:115 - Opened new tab
+2015-12-29 06:03:44 INFO  MainPage:55 - Opened login page
+2015-12-29 06:03:48 INFO  MainPage:87 - Opened users nav panel
+2015-12-29 06:03:50 INFO  MainPage:92 - Logout
+2015-12-29 06:03:50 INFO  MainPage:55 - Opened login page
+2015-12-29 06:03:58 INFO  Steps:33 - Stopped browser
+2015-12-29 10:01:05 INFO  Steps:27 - Initialized browser
+2015-12-29 10:01:10 INFO  MainPage:48 - Opened login page
+2015-12-29 10:01:42 INFO  MainPage:53 - Opened product page
+2015-12-29 10:01:53 INFO  MainPage:63 - Size choose
+2015-12-29 10:01:53 INFO  MainPage:68 - Added to cart
+2015-12-29 10:01:55 INFO  MainPage:73 - Go to cart
+2015-12-29 10:02:03 INFO  Steps:33 - Stopped browser
+2015-12-29 10:02:17 INFO  Steps:27 - Initialized browser
+2015-12-29 10:02:23 INFO  MainPage:55 - Opened login page
+2015-12-29 10:02:34 INFO  MainPage:65 - Logged in
+2015-12-29 10:02:35 INFO  Steps:115 - Opened new tab
+2015-12-29 10:02:36 INFO  Steps:115 - Opened new tab
+2015-12-29 10:02:37 INFO  Steps:115 - Opened new tab
+2015-12-29 10:02:39 INFO  MainPage:55 - Opened login page
+2015-12-29 10:02:43 INFO  MainPage:85 - Opened users nav panel
+2015-12-29 10:02:43 INFO  MainPage:90 - Logout
+2015-12-29 10:02:44 INFO  MainPage:55 - Opened login page
+2015-12-29 10:02:50 INFO  Steps:33 - Stopped browser
+2015-12-29 10:03:04 INFO  Steps:27 - Initialized browser
+2015-12-29 10:03:10 INFO  MainPage:55 - Opened login page
+2015-12-29 10:03:20 INFO  MainPage:77 - Used search
+2015-12-29 10:03:26 INFO  Steps:33 - Stopped browser
+2015-12-29 10:03:38 INFO  Steps:27 - Initialized browser
+2015-12-29 10:03:42 INFO  MainPage:55 - Opened login page
+2015-12-29 10:03:54 INFO  MainPage:65 - Logged in
+2015-12-29 10:03:55 INFO  Steps:115 - Opened new tab
+2015-12-29 10:03:55 INFO  DashboardPage:31 - Opened dashboard page
+2015-12-29 10:04:02 INFO  Steps:33 - Stopped browser
